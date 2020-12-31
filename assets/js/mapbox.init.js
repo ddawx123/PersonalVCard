@@ -2,8 +2,8 @@ mapboxgl.accessToken = 'pk.eyJ1IjoiYXJ0dGVtcGxhdGUiLCJhIjoiY2s0M3I5ZHgzMGEzNDNuc
 var map = new mapboxgl.Map({
     container: 'map',
     style: 'mapbox://styles/mapbox/light-v10',
-	center: [-73.9751,40.7289], // starting position
-    zoom: 13 // starting zoom
+	center: [113.94,22.51], // starting position
+    zoom: 11 // starting zoom
 });
 		
 // create the popup
